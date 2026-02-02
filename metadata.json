@@ -1,0 +1,5 @@
+{
+  "name": "ZenBlock Juggler AI",
+  "description": "A high-fidelity physics-based juggling and balancing game enhanced with Gemini AI to generate dynamic challenges, world themes, and real-time coaching.",
+  "requestFramePermissions": []
+}
